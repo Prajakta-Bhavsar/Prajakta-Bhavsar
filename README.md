@@ -38,23 +38,29 @@
 
 ## 📌 Projects  
 
-- [SPOT: AI-Powered Authenticity Verification Tool](#)  
-  - Built AI-based algorithms with 90% accuracy in detecting AI-generated content  
-  - Enhanced platform security to 95% and led a digital literacy initiative boosting engagement by 60%  
+1. **[JPMC IT Audit Project](https://github.com/Prajakta-Bhavsar/JPMC-IT-Audit)**  
+   - Conducted an IT audit for JPMorgan Chase & Co. to ensure security and compliance in digital operations.
+   - Evaluated Identity Access Management (IAM), cybersecurity controls, and regulatory compliance.
 
-- [IKEA’s Digital Strategy](#)  
-  - Developed customer analytics models, increasing revenue by 13%  
-  - Optimized multi-channel customer journeys using Omniture and web analytics  
+2. **[HealTech - A Hospital Management System - Project Management Project](https://github.com/Prajakta-Bhavsar/HealTech-A-Hospital-Backend-Management-System)**  
+   - Designed a data-driven hospital management system, improving operational efficiency by 30%.
+   - Built dashboards and automation tools, reducing claim processing time by 25%.
 
-- [HealTech - Hospital Management System](#)  
-  - Designed a data-driven hospital management system, improving efficiency by 30%  
-  - Built dashboards and automation tools, reducing claim processing time by 25%  
+3. **[SPOT - An AI Authenticity Checker - Product Management Project](https://github.com/Prajakta-Bhavsar/SPOT-AI-Digital-Product-Management)**  
+   - Built AI-based algorithms with 90% accuracy in detecting AI-generated content.
+   - Enhanced platform security to 95% and led a digital literacy initiative boosting engagement by 60%.
 
-- [Inventory Optimization Using Demand Forecasting](#)  
-  - Created a time-series forecasting model, reducing inventory inefficiencies by 15%  
-  - Improved stock turnover rates and minimized holding costs  
+4. **[IKEA's Digital Strategy - Digital Strategy Project](https://github.com/Prajakta-Bhavsar/IKEAs-Digital-Strategy)**  
+   - Developed customer analytics models, increasing revenue by 13%.
+   - Optimized multi-channel customer journeys using Omniture and web analytics.
 
-_(Replace `#` with actual repository links once added)_
+5. **[Digital Strategy of V-Vogue - Digital Strategy Project](https://github.com/Prajakta-Bhavsar/V-Vogue-Digital-Strategy-)**  
+   - Crafted a digital strategy for V-Vogue, focusing on e-commerce platform enhancement and customer engagement.
+   - Implemented AI-driven recommendation engines and personalized marketing strategies.
+
+6. **[PetPal TeleVet - Marketing Management Project](https://github.com/Prajakta-Bhavsar/Marketing-Management)**  
+   - Developed a marketing strategy for PetPal TeleVet, a virtual veterinary consultation service.
+   - Focused on digital marketing, customer segmentation, and subscription-based pricing models.
 
 ---
 
