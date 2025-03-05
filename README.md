@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Prajakta Bhavsar</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Prajakta Bhavsar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prajakta-bhavsar-376b81192">LinkedIn</a> •
@@ -12,11 +12,11 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif" width="400" height="280" />
 
-* Master’s student in Information Technology and Management at UT Dallas (May 2025)
+* Master’s student in Information Technology and Management at UT Dallas (Graduating May 2025)
+* Currently actively looking for full-time opportunities within USA
 * Former Jr. Project Analyst at Cognizant with 2+ years of experience in data security and analytics
 * Skilled in AI, data-driven decision-making, and digital transformation
-* Experienced in project management, Agile methodologies, and cross-functional collaboration
-* Passionate about leveraging data for business insights and innovation
+* Experienced in project management, product management, and data analysis and business analysis
 * Proven ability to optimize processes and drive efficiency in technical environments
 * Strong problem-solving skills with a focus on delivering scalable solutions
 * Experienced in stakeholder management and fostering team collaboration for high-impact projects
@@ -66,10 +66,10 @@
 
 ## 🛠️ Technical Skills  
 
-- Languages and databases: Python, R, SQL/MySQL, Scala, MongoDB, MariaDB  
-- Cloud and DevOps: AWS, Google Cloud Platform, Git, Ansible  
-- Data analytics and visualization: Tableau, Power BI, Hadoop, Excel, Google Analytics  
-- Project management: Agile, Scrum, JIRA, Confluence  
+- **Languages and databases:** Python, R, SQL/MySQL, Scala, MongoDB, MariaDB  
+- **Cloud and DevOps:** AWS, Google Cloud Platform, Git, Ansible  
+- **Data analytics and visualization:** Tableau, Power BI, Hadoop, Excel, Google Analytics  
+- **Project management:** Agile, Scrum, JIRA, Confluence  
 
 ---
 
