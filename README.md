@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif" width="400" height="280" />
 
 * Master’s student in Information Technology and Management at UT Dallas (May 2025)
-* Former junior project analyst at Cognizant with experience in data security and analytics
+* Former Jr. Project Analyst at Cognizant with 2+ years of experience in data security and analytics
 * Skilled in AI, data-driven decision-making, and digital transformation
 * Experienced in project management, Agile methodologies, and cross-functional collaboration
 * Passionate about leveraging data for business insights and innovation
