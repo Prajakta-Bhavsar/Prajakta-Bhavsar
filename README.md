@@ -22,17 +22,20 @@
 * Experienced in stakeholder management and fostering team collaboration for high-impact projects
 ---
 
-## 💼 Professional Experience  
 
-### Cognizant Technology Solutions, India  
-**Jr. Project Analyst** (Sept 2022 - Jul 2023)  
-- Implemented identity and access management (IAM) solutions, reducing breaches by 30%  
-- Created data-centric technical documentation, reducing error rates by 20%  
-- Optimized system performance, cutting query response time by 40% using Python and SQL  
+## 🛠️ Technical Skills  
 
-**Analyst Intern** (Jun 2021 - Aug 2022)  
-- Managed cross-functional Agile teams, improving project delivery efficiency by 15%  
-- Led budget and resource allocation for high-impact projects, ensuring financial efficiency  
+- **Languages and databases:** Python, R, SQL/MySQL, Scala, MongoDB, MariaDB  
+- **Cloud and DevOps:** AWS, Google Cloud Platform, Git, Ansible  
+- **Data analytics and visualization:** Tableau, Power BI, Hadoop, Excel, Google Analytics  
+- **Project management:** Agile, Scrum, JIRA, Confluence  
+
+---
+
+## 📫 Connect with Me  
+
+- Email: [prajakta.bhavsar1210@gmail.com](mailto:prajakta.bhavsar1210@gmail.com) | [prajakta.bhavsar@utdallas.edu](mailto:prajakta.bhavsar@utdallas.edu)  
+- LinkedIn: [Prajakta Bhavsar](https://www.linkedin.com/in/prajakta-bhavsar-376b81192)  
 
 ---
 
@@ -62,18 +65,23 @@
    - Developed a marketing strategy for PetPal TeleVet, a virtual veterinary consultation service.
    - Focused on digital marketing, customer segmentation, and subscription-based pricing models.
 
----
-
-## 🛠️ Technical Skills  
-
-- **Languages and databases:** Python, R, SQL/MySQL, Scala, MongoDB, MariaDB  
-- **Cloud and DevOps:** AWS, Google Cloud Platform, Git, Ansible  
-- **Data analytics and visualization:** Tableau, Power BI, Hadoop, Excel, Google Analytics  
-- **Project management:** Agile, Scrum, JIRA, Confluence  
 
 ---
 
-## 🎯 Leadership & Involvement  
+## 💼 Professional Experience  
+
+### Cognizant Technology Solutions, India  
+**Jr. Project Analyst** (Sept 2022 - Jul 2023)  
+- Implemented identity and access management (IAM) solutions, reducing breaches by 30%  
+- Created data-centric technical documentation, reducing error rates by 20%  
+- Optimized system performance, cutting query response time by 40% using Python and SQL  
+
+**Analyst Intern** (Jun 2021 - Aug 2022)  
+- Managed cross-functional Agile teams, improving project delivery efficiency by 15%  
+- Led budget and resource allocation for high-impact projects, ensuring financial efficiency  
+---
+
+## 🎯 Leadership & Involvement at University
 
 ### Technical Project Manager @ Nebula Labs, UT Dallas (Oct 2023 - Aug 2024)  
 - Led development of UT Dallas student apps for 500+ users  
@@ -82,13 +90,6 @@
 ### Social Media Team Strategist @ Project Management Club, UT Dallas (Aug 2024 - Present)  
 - Directed digital campaigns, increasing engagement by 20%  
 - Organized workshops and networking events, driving community growth  
-
----
-
-## 📫 Connect with Me  
-
-- Email: [prajakta.bhavsar1210@gmail.com](mailto:prajakta.bhavsar1210@gmail.com) | [prajakta.bhavsar@utdallas.edu](mailto:prajakta.bhavsar@utdallas.edu)  
-- LinkedIn: [Prajakta Bhavsar](https://www.linkedin.com/in/prajakta-bhavsar-376b81192)  
 
 ---
 
