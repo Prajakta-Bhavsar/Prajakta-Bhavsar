@@ -97,12 +97,12 @@
 
 <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktabhavsar" alt="Prajakta's Streak Stats" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajaktabhavsar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Prajakta's Top Languages" height="192px"  width="500px"/>
 </div>
 
-<details>
-  <summary>⚡ GitHub Profile Stats</summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prajaktabhavsar&show_icons=true" />
-</details>
+<br /> <!-- Add spacing between the two stats -->
+
+<div>
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prajaktabhavsar&show_icons=true" alt="Prajakta's GitHub Stats" />
+</div>
 
 ---
