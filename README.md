@@ -23,12 +23,35 @@
 ---
 
 
-## 🛠️ Technical Skills  
+## 🛠️ Skills
 
-- **Languages and databases:** Python, R, SQL/MySQL, Scala, MongoDB, MariaDB  
-- **Cloud and DevOps:** AWS, Google Cloud Platform, Git, Ansible  
-- **Data analytics and visualization:** Tableau, Power BI, Hadoop, Excel, Google Analytics  
-- **Project management:** Agile, Scrum, JIRA, Confluence  
+- **Proficient with:** Python, R, SQL/MySQL, Scala, C/C++, Java, HTML-CSS, JavaScript
+
+- **Familiar with:** SQL/MySQL, MongoDB, MariaDB, PostgreSQL, Rust
+
+- **Database Management:** SQL/MySQL, MongoDB, MariaDB, PostgreSQL
+
+- **Cloud & DevOps Tools:** AWS, Google Cloud Platform (GCP), Git, Ansible
+
+- **Data Analytics & Visualization Tools:** Tableau, Power BI, Hadoop, Excel, Google Analytics
+
+- **Project Management Tools:** Jira, Trello, Asana, MS Project, SmartSheet
+
+- **Methodologies & Frameworks:** Agile, Scrum, Waterfall, Lean Six Sigma
+
+- **Other Tools & Technologies:** Linux, Microsoft Access, MS Office Suite (Word, Excel, PowerPoint), Omniture
+
+**Key Competencies**
+- Data-Driven Decision Making
+- Identity and Access Management (IAM)
+- Machine Learning & AI Algorithms
+- Process Optimization & Automation
+- Cross-Functional Team Leadership
+- Stakeholder Management & Communication
+- Budgeting & Resource Allocation
+- Risk Assessment & Mitigation
+- Technical Documentation & Knowledge Management
+
 
 ---
 
