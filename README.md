@@ -115,17 +115,3 @@
 - Organized workshops and networking events, driving community growth  
 
 ---
-
-## 📊 GitHub Stats  
-
-<div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktabhavsar" alt="Prajakta's Streak Stats" />
-</div>
-
-<br /> <!-- Add spacing between the two stats -->
-
-<div>
-   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prajaktabhavsar&show_icons=true" alt="Prajakta's GitHub Stats" />
-</div>
-
----
