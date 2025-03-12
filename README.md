@@ -41,17 +41,6 @@
 
 - **Other Tools & Technologies:** Linux, Microsoft Access, MS Office Suite (Word, Excel, PowerPoint), Omniture
 
-**Key Competencies**
-- Data-Driven Decision Making
-- Identity and Access Management (IAM)
-- Machine Learning & AI Algorithms
-- Process Optimization & Automation
-- Cross-Functional Team Leadership
-- Stakeholder Management & Communication
-- Budgeting & Resource Allocation
-- Risk Assessment & Mitigation
-- Technical Documentation & Knowledge Management
-
 
 ---
 
