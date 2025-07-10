@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif" width="400" height="280" />
 
 * Former Jr. Project Analyst at Cognizant with 2+ years of experience in project management and data analytics
-* Master’s student in Information Technology and Management at UT Dallas (Graduating May 2025)
+* Master’s student in Information Technology and Management at UT Dallas (May 2025 Graduate student)
 * Interested in project management, product management, and data analysis and business analysis
 * Skilled in AI, data-driven decision-making, and digital transformation
 * Proven ability to optimize processes and drive efficiency in technical environments
@@ -39,6 +39,8 @@
 - **Methodologies & Frameworks:** Agile, Scrum, Waterfall, Lean Six Sigma
 
 - **Other Tools & Technologies:** Linux, Microsoft Access, MS Office Suite (Word, Excel, PowerPoint), Omniture
+  
+- **Professional Certifications:** AWS Fundamentals, Asana Workflow Specialist, Google Project Management
 
 
 ---
@@ -48,6 +50,7 @@
 - Email: [prajakta.bhavsar1210@gmail.com](mailto:prajakta.bhavsar1210@gmail.com) | [prajakta.bhavsar@utdallas.edu](mailto:prajakta.bhavsar@utdallas.edu)  
 - LinkedIn: [Prajakta Bhavsar](https://www.linkedin.com/in/prajakta-bhavsar-376b81192)  
 
+---
 ---
 
 ## 📌 Projects  
@@ -76,30 +79,44 @@
    - Developed a marketing strategy for PetPal TeleVet, a virtual veterinary consultation service.
    - Focused on digital marketing, customer segmentation, and subscription-based pricing models.
 
+7. **[ANT Trucks – Big Data Project](https://github.com/Prajakta-Bhavsar/Big-Data-Road-Safety-Analytics-ANT-Trucks)**  
+   - Analyzed fleet safety using Hadoop, Hive, and Tableau to identify high-risk trucks, drivers, and cities.  
+   - Delivered actionable insights on route optimization, driver retraining, and fuel efficiency improvements.
+
+8. **[United Airlines – Coding Metrics Project](https://github.com/Prajakta-Bhavsar/AI-Driven-Developer-Analytics-United-Airlines)**  
+   - Built a dashboard-driven framework to track code quality, developer productivity, and deployment reliability.  
+   - Integrated Azure DevOps and AI tools (Copilot, SonarQube) for automated reviews and sprint planning insights.
+
+9. **[SEO Analysis – Zillow, Instacart, Stripe, Netflix – Digital Strategy Project](https://github.com/Prajakta-Bhavsar/SEO-Performance-Analytics-for-4-Market-Leaders)**  
+   - Conducted a comparative SEO audit using SEMrush and Ahrefs to evaluate keyword, content, and technical strategies.  
+   - Recommended improvements aligned with business models, user intent, and domain authority strengths.
 
 ---
+
 
 ## 💼 Professional Experience  
 
 ### Cognizant Technology Solutions, India  
 **Jr. Project Analyst** (Sept 2022 - Jul 2023)  
-- Implemented identity and access management (IAM) solutions, reducing breaches by 30%  
-- Created data-centric technical documentation, reducing error rates by 20%  
-- Optimized system performance, cutting query response time by 40% using Python and SQL  
+- Deployed IAM solutions and aligned stakeholders, reducing security breaches by 30% and improving compliance.
+- Boosted database speed 25% via SQL indexing and Linux tuning, reducing system latency by a good 40%.
+- Improved delivery by 15% through scope definition, risk mitigation, and structured change management practices.
+- Defined KPIs and analyzed feature use, raising customer engagement 18% through data-informed product decisions.
 
 **Analyst Intern** (Jun 2021 - Aug 2022)  
-- Managed cross-functional Agile teams, improving project delivery efficiency by 15%  
-- Led budget and resource allocation for high-impact projects, ensuring financial efficiency  
+- Managed 200K budget, ensuring milestone delivery through effective cost evaluation and resource allocation.
+- Created onboarding documentation, reducing errors by 20% and improving training for more than new employees.
+- Reduced lifecycle bottlenecks 25% by coordinating QA, dev, and ops using agile sprint planning.
 ---
 
 ## 🎯 Leadership & Involvement at University
 
 ### Technical Project Manager @ Nebula Labs, UT Dallas (Oct 2023 - Aug 2024)  
-- Led development of UT Dallas student apps for 500+ users  
-- Managed Agile development using JIRA and integrated financial datasets with SQL and Python  
+- Managed app development projects for 500+ students by scheduling Agile sprints and tracking progress via JIRA.
+- Delivered SQL and Python-based insights by integrating datasets across lifecycle stages to inform development decisions. 
 
 ### Social Media Team Strategist @ Project Management Club, UT Dallas (Aug 2024 - Present)  
-- Directed digital campaigns, increasing engagement by 20%  
-- Organized workshops and networking events, driving community growth  
+- Led campaign planning and stakeholder alignment across digital platforms to drive coordinated event marketing efforts.
+- Achieved a 20% increase in participation by ensuring timely content delivery and effective cross-functional collaboration.
 
 ---
