@@ -16,7 +16,7 @@
 
 • Built analytics dashboards tracking index coverage, traffic trends, and keyword movement to drive data-informed technical prioritization.
 
-• Pursuing a Master’s in Information Technology & Management at The University of Texas at Dallas (GPA: 3.7/4).
+• I have a Master’s degree in Information Technology & Management at The University of Texas at Dallas (GPA: 3.7/4).
 
 • Previously served as Jr. Project Analyst and IAM Team Lead at Cognizant Technology Solutions, managing access governance and escalation workflows for US enterprise clients.
 
@@ -28,7 +28,7 @@
 
 • Experienced in translating operational data into measurable improvements across traffic performance, access governance, and workflow efficiency.
 
-• Seeking analytical and operations-focused roles where data-driven decision-making drives scalable impact.
+• Seeking PM / Data or Business Analysts roles where data-driven decision-making drives scalable impact.
 
 ---
 
