@@ -12,15 +12,48 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif" width="400" height="280" />
 
-* Former Jr. Project Analyst at Cognizant with 2+ years of experience in project management and data analytics
-* Master’s student in Information Technology and Management at   UT Dallas (May 2025 Graduate student)
-* Interested in project management, product management, and data analysis and business analysis
-* Skilled in AI, data-driven decision-making, and digital transformation
-* Proven ability to optimize processes and drive efficiency in technical environments
-* Strong problem-solving skills with a focus on delivering scalable solutions
-* Experienced in stakeholder management and fostering team collaboration for high-impact projects
+• Currently working as a Project Manager (Web Analytics & SEO) at Holiday Channel LLC, leading website migration, dashboard development, and search performance optimization initiatives.
+
+• Built analytics dashboards tracking index coverage, traffic trends, and keyword movement to drive data-informed technical prioritization.
+
+• Pursuing a Master’s in Information Technology & Management at The University of Texas at Dallas (GPA: 3.7/4).
+
+• Previously served as Jr. Project Analyst and IAM Team Lead at Cognizant Technology Solutions, managing access governance and escalation workflows for US enterprise clients.
+
+• Directed a 4-member IAM escalation team while sustaining SLA compliance across high-volume ticket operations.
+
+• Earned a Bachelor of Engineering in Computer Science from Savitribai Phule Pune University (GPA: 3.8/4).
+
+• Strong foundation in SQL, Python, KPI development, dashboarding, and cross-functional stakeholder coordination.
+
+• Experienced in translating operational data into measurable improvements across traffic performance, access governance, and workflow efficiency.
+
+• Seeking analytical and operations-focused roles where data-driven decision-making drives scalable impact.
+
 ---
 
+
+## 💼 Professional Experience  
+
+### Holiday Channel LLC, Colorado Springs, CO  
+**Project Manager  (Web analytics and SEO team )** (Aug 2025 - Present)  
+- Prevented traffic volatility during site migration by mapping and consolidating 120+ legacy URLs using structured 301 redirects.
+- Reduced more than 30 crawl and duplicate indexing errors by auditing site architecture and refining sitemaps and metadata in Google Search Console.
+- Identified indexing and visibility gaps, then built performance dashboards tracking traffic, keyword movement, and index coverage trends.
+- Minimized SEO risk during AWS migration by establishing pre-deployment baselines and monitoring post-migration GA4 performance trends.
+- Improved branded search visibility by analyzing Search Console and GA4 data, publishing 40+ structured, keyword-aligned articles.
+- Strengthened technical prioritization by translating crawl and traffic insights into actionable optimization roadmaps.
+
+### Cognizant Technology Solutions, Bangalore, India
+**Jr. Project Analyst (IAM Operations team)** (Jun 2021 - Jun 2023)   
+- Reduced escalation delays by leading a 4-member IAM team and prioritizing high-risk access cases.
+- Sustained SLA compliance by resolving ~40 daily software, hardware, and access-related incidents through structured triage.
+- Improved cross-border resolution speed by coordinating complex escalation workflows with overseas stakeholders.
+- Strengthened access governance by administering IAM provisioning and deprovisioning across US enterprise accounts.
+- Ensured audit readiness by maintaining policy-aligned access controls and standardized documentation practices.
+- Minimized repeat issues by applying detailed root-cause analysis across recurring infrastructure and access tickets.
+- Increased operational consistency by formalizing onboarding and knowledge transfer processes across the IAM team.
+---
 
 ## 🛠️ Skills
 
@@ -50,7 +83,6 @@
 - Email: [prajakta.bhavsar1210@gmail.com](mailto:prajakta.bhavsar1210@gmail.com) | [prajakta.bhavsar@utdallas.edu](mailto:prajakta.bhavsar@utdallas.edu)  
 - LinkedIn: [Prajakta Bhavsar](https://www.linkedin.com/in/prajakta-bhavsar-376b81192)  
 
----
 ---
 
 ## 📌 Projects  
@@ -91,22 +123,6 @@
    - Conducted a comparative SEO audit using SEMrush and Ahrefs to evaluate keyword, content, and technical strategies.  
    - Recommended improvements aligned with business models, user intent, and domain authority strengths.
 
----
-
-
-## 💼 Professional Experience  
-
-### Cognizant Technology Solutions, India  
-**Jr. Project Analyst** (Sept 2022 - Jul 2023)  
-- Deployed IAM solutions and aligned stakeholders, reducing security breaches by 30% and improving compliance.
-- Boosted database speed 25% via SQL indexing and Linux tuning, reducing system latency by a good 40%.
-- Improved delivery by 15% through scope definition, risk mitigation, and structured change management practices.
-- Defined KPIs and analyzed feature use, raising customer engagement 18% through data-informed product decisions.
-
-**Analyst Intern** (Jun 2021 - Aug 2022)  
-- Managed 200K budget, ensuring milestone delivery through effective cost evaluation and resource allocation.
-- Created onboarding documentation, reducing errors by 20% and improving training for more than new employees.
-- Reduced lifecycle bottlenecks 25% by coordinating QA, dev, and ops using agile sprint planning.
 ---
 
 ## 🎯 Leadership & Involvement at University
