@@ -12,17 +12,15 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/lauragift21/lauragift21/master/code.gif" width="400" height="280" />
 
-• Currently working as a Project Manager (Web Analytics & SEO) at Holiday Channel LLC, leading website migration, dashboard development, and search performance optimization initiatives.
+• Currently working as a Project Manager (Web Analytics & SEO team) at Holiday Channel LLC, leading website migration, dashboard development, and search performance optimization initiatives.
 
 • Built analytics dashboards tracking index coverage, traffic trends, and keyword movement to drive data-informed technical prioritization.
 
-• I have a Master’s degree in Information Technology & Management at The University of Texas at Dallas (GPA: 3.7/4).
+• I have a Master’s degree in Information Technology & Management from The University of Texas at Dallas (2025 grad).
 
-• Previously served as Jr. Project Analyst and IAM Team Lead at Cognizant Technology Solutions, managing access governance and escalation workflows for US enterprise clients.
+• Previously served as Project Analyst (IAM Operations team) at Cognizant Technology Solutions, managing access governance and escalation workflows for US enterprise clients.
 
-• Directed a 4-member IAM escalation team while sustaining SLA compliance across high-volume ticket operations.
-
-• Earned a Bachelor of Engineering in Computer Science from Savitribai Phule Pune University (GPA: 3.8/4).
+• Earned a Bachelor of Engineering in Computer Science from Savitribai Phule Pune University.
 
 • Strong foundation in SQL, Python, KPI development, dashboarding, and cross-functional stakeholder coordination.
 
@@ -37,22 +35,23 @@
 
 ### Holiday Channel LLC, Colorado Springs, CO  
 **Project Manager  (Web analytics and SEO team )** (Aug 2025 - Present)  
-- Prevented traffic volatility during site migration by mapping and consolidating 120+ legacy URLs using structured 301 redirects.
-- Reduced more than 30 crawl and duplicate indexing errors by auditing site architecture and refining sitemaps and metadata in Google Search Console.
-- Identified indexing and visibility gaps, then built performance dashboards tracking traffic, keyword movement, and index coverage trends.
-- Minimized SEO risk during AWS migration by establishing pre-deployment baselines and monitoring post-migration GA4 performance trends.
-- Improved branded search visibility by analyzing Search Console and GA4 data, publishing 40+ structured, keyword-aligned articles.
-- Strengthened technical prioritization by translating crawl and traffic insights into actionable optimization roadmaps.
+- Prevented organic traffic loss during full site migration by architecting redirects for 120+ legacy URLs ensuring the rankings held steady post-AWS launch.
+- Kept migration on track across two parallel workstreams by running daily standups and clearing blockers between engineering, content, and vendor teams.
+- Managed the end-to-end procurement lifecycle for SEO and analytics tools, coordinating vendor onboarding, licensing negotiations, and delivery schedules within project timelines.
+- Established crawl and traffic baselines before AWS infrastructure move, monitoring post-launch stability weekly to catch and resolve ranking drops early.
+- Analyzed branded search visibility gaps via GSC query-level data, closing them by publishing 20+ structured articles targeting underperforming keyword clusters.
+- Built Power BI and GA4 dashboards tracking 7+ KPIs, uncovering branded search visibility gaps that informed a targeted 20-article content strategy and improved organic search performance.
+- Designed A/B tests on landing page layout and 3 call-to-action buttons, improving click-through rate by 15–18% on the highest-traffic pages.
 
 ### Cognizant Technology Solutions, Bangalore, India
-**Jr. Project Analyst (IAM Operations team)** (Jun 2021 - Jun 2023)   
-- Reduced escalation delays by leading a 4-member IAM team and prioritizing high-risk access cases.
-- Sustained SLA compliance by resolving ~40 daily software, hardware, and access-related incidents through structured triage.
-- Improved cross-border resolution speed by coordinating complex escalation workflows with overseas stakeholders.
-- Strengthened access governance by administering IAM provisioning and deprovisioning across US enterprise accounts.
-- Ensured audit readiness by maintaining policy-aligned access controls and standardized documentation practices.
-- Minimized repeat issues by applying detailed root-cause analysis across recurring infrastructure and access tickets.
-- Increased operational consistency by formalizing onboarding and knowledge transfer processes across the IAM team.
+**Project Analyst (IAM Operations team)** (Jun 2021 - Jun 2023)   
+- Resolved 40+ daily tickets across access, hardware, and software issues via ServiceNow, moving the team from recurring SLA misses to clean compliance audits.
+- Coordinated compliance-sensitive escalations between US and offshore teams, reducing average resolution time from roughly 5 days to 3 days across quarterly review cycles.
+- Managed asset lifecycle for 100+ enterprise accounts, coordinating procurement requests and deprovisioning workflows within compliance-defined SLA windows across IT teams.
+- Created and maintained documentation for access provisioning and deprovisioning workflows, reducing onboarding time for new team members joining the IAM operations queue.
+- Conducted periodic access reviews across enterprise systems ahead of scheduled compliance audits, flagging discrepancies before they escalated into formal audit findings.
+- Developed operational dashboards tracking team KPIs and identifying bottlenecks, reducing leadership reporting prep time by several hours each week during business reviews.
+- Identified recurring ticket patterns and documented root causes, recommending workflow changes that reduced repeat audit findings quarter over quarter.
 ---
 
 ## 🛠️ Skills
@@ -80,7 +79,7 @@
 
 ## 📫 Connect with Me  
 
-- Email: [prajakta.bhavsar1210@gmail.com](mailto:prajakta.bhavsar1210@gmail.com) | [prajakta.bhavsar@utdallas.edu](mailto:prajakta.bhavsar@utdallas.edu)  
+- Email: [prajakta.bhavsar1210@gmail.com](mailto:prajakta.bhavsar1210@gmail.com) | +1 945-527-2831 OR +91 83799 09886
 - LinkedIn: [Prajakta Bhavsar](https://www.linkedin.com/in/prajakta-bhavsar-376b81192)  
 
 ---
